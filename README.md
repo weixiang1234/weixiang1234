@@ -1,59 +1,122 @@
-# Hi, I'm Wei Xiang 👋
+<div align="center">
 
-I'm a final-year **Electrical and Electronic Engineering undergraduate at Nanyang Technological University (NTU), Singapore**, graduating in May 2027.
+  <img src="assets/wx-bot-wave.gif" alt="WX-Bot waving hello" width="170" />
 
-I'm passionate about **robotics, intelligent systems, and embedded technologies**, particularly how hardware and software can work together to make machines more capable of sensing, understanding, and interacting with the world.
+  <h1>Hi, I'm Wei Xiang! 👋</h1>
 
-## About Me
+  <p>
+    <strong>Electrical & Electronic Engineering · Nanyang Technological University, Singapore</strong><br>
+    <sub>Final-year undergraduate · Graduating May 2027</sub>
+  </p>
 
-- 🎓 Pursuing a B.Eng. in Electrical and Electronic Engineering at NTU
-- 🤖 Exploring **robotics and human-robot interaction**, with a current focus on humanoid robot perception
-- 🧠 Interested in **computer vision, machine learning, and multimodal AI** for intelligent perception
-- ⚙️ Enjoy working with **embedded systems, sensors, and firmware**, from hardware integration to software development
-- 🌱 Always keen to learn new technologies, experiment with ideas, and turn them into working prototypes
+  <p>
+    <img src="https://img.shields.io/badge/Robotics-0F766E?style=for-the-badge" alt="Robotics" />
+    <img src="https://img.shields.io/badge/Computer_Vision-2563EB?style=for-the-badge" alt="Computer Vision" />
+    <img src="https://img.shields.io/badge/Embedded_Systems-0E7490?style=for-the-badge" alt="Embedded Systems" />
+  </p>
 
-## Featured Projects
+  <p><em>I enjoy building things that sense, move, and interact with the world — and figuring out how to make them work when conditions aren't ideal.</em></p>
 
-### 🤖 Multimodal Human-Robot Interaction | Final Year Project
-**Unitree G1 Humanoid Robot · Ongoing**
+</div>
 
-Developing a multimodal perception system that combines **RGB-D vision and audio sensing** to recognize human behaviours and support more natural human-robot interaction.
+---
 
-My research focuses on making perception more reliable in real-world environments, investigating how factors such as **visual occlusion, background noise, distance, and viewing angles** affect recognition performance, and exploring how multimodal fusion can compensate for degraded sensor information.
+## 🌱 About Me
 
-`Python` `ROS` `Computer Vision` `Multimodal Sensing`
+- 🎓 Studying **Electrical and Electronic Engineering** at **NTU Singapore**.
+- 🤖 Curious about how robots can **understand people and respond to their surroundings**, not just perform scripted actions.
+- 🧠 Exploring **computer vision and multimodal AI**, especially how to handle imperfect or unreliable sensor data.
+- ⚙️ I enjoy the hands-on side of engineering — **firmware, sensors, control systems, and plenty of debugging**.
+- 🏭 Previously interned at **Micron**, working on **manufacturing automation, equipment processes, and traceability**.
+- 🌱 I learn best by **building, testing, breaking, and improving** real systems.
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Multimodal Human-Robot Interaction · Final Year Project
+
+![Ongoing](https://img.shields.io/badge/STATUS-ONGOING-0F766E?style=flat-square) **Unitree G1 Humanoid Robot**
+
+I'm developing an **RGB-D and audio perception framework** to recognize human behaviour from a humanoid robot's point of view. The main question I'm exploring is how well it works when sensing gets difficult — through **visual occlusion, background noise, distance, and different viewing angles** — and whether combining modalities can improve reliability.
+
+`Python` `ROS1` `OpenCV` `MediaPipe` `Multimodal Perception`
 
 ### 🔬 Energy-Aware Thermal Capsule
-**Embedded Systems & Biomedical Applications · Ongoing**
 
-Working on the firmware development of an **energy-efficient ingestible thermal sensing capsule** designed for gastrointestinal monitoring.
+![Ongoing](https://img.shields.io/badge/STATUS-ONGOING-0F766E?style=flat-square) **Embedded Systems · Biomedical Sensing**
 
-The project explores **adaptive sensor sampling, motion-aware sensing, and power management** to reduce energy consumption while maintaining useful thermal measurements. My work involves microcontroller programming, sensor interfacing, and implementing low-power operating strategies.
+I'm developing **firmware for an ingestible thermal sensing prototype** built around the nRF52833. My focus is on **sensor interfacing, motion-aware sampling, low-power operation, and BLE communication**, with the goal of capturing useful measurements while managing a limited energy budget.
 
-`C` `nRF52` `Embedded Firmware` `Sensor Integration` `BLE`
+`Embedded C` `nRF52833` `I²C` `BLE` `Power Management`
 
 ### 👓 Portable Emotion Recognition System
-**Computer Vision & Assistive Technology**
 
-Developed a wearable prototype that combines **RGB and infrared imaging** to recognize facial expressions, exploring how computer vision could assist visually impaired individuals in understanding social interactions.
+![Completed](https://img.shields.io/badge/STATUS-COMPLETED-64748B?style=flat-square) **Computer Vision · Assistive Technology**
 
-The system integrates a **Raspberry Pi, camera modules, and deep learning models** to process visual and thermal information. This project gave me hands-on experience in computer vision, model development, and integrating machine learning with physical hardware.
+I built a **wearable RGB and infrared vision prototype** for facial expression recognition, exploring how this technology could support people with visual impairments. This project brought together **deep learning, image processing, and Raspberry Pi hardware** in a working prototype.
 
 `Python` `PyTorch` `TensorFlow/Keras` `Raspberry Pi`
 
-## Technical Skills
+---
 
-| Category | Technologies & Skills |
-|---|---|
-| 💻 **Programming** | Python, C/C++, MATLAB |
-| 🤖 **Robotics & Simulation** | ROS1 (Noetic), Gazebo, Robot Kinematics |
-| 🧠 **Computer Vision & AI** | OpenCV, MediaPipe, PyTorch, TensorFlow/Keras, ONNX Runtime |
-| ⚙️ **Embedded Systems** | nRF52, ESP32, Raspberry Pi, Embedded C, I²C, BLE, Sensor Integration |
-| 🎛️ **Control & Signal Processing** | Feedback Control, PWM, Sensor Data Processing |
-| 🛠️ **Development Tools** | Git, GitHub, Linux (Ubuntu), Docker, Jupyter Notebook |
+## 🛠️ My Tech Stack
 
-## Professional Interests
+**💻 Programming**
 
-I'm particularly interested in the intersection of **robotics, artificial intelligence, and physical systems**, especially their applications in **healthcare, assistive technology, and industrial automation**.
+![Python](https://img.shields.io/badge/Python-334155?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-334155?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-334155?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-334155?style=for-the-badge)
 
-Beyond developing individual algorithms or hardware components, I hope to gain a deeper understanding of how complete engineering systems are designed, integrated, and made reliable enough for practical applications.
+**🤖 Robotics & Simulation**
+
+![ROS Noetic](https://img.shields.io/badge/ROS1_Noetic-0F766E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-0F766E?style=for-the-badge)
+![Robot Kinematics](https://img.shields.io/badge/Robot_Kinematics-0F766E?style=for-the-badge)
+
+**🧠 Computer Vision & AI**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-2563EB?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-2563EB?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-2563EB?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow/Keras](https://img.shields.io/badge/TensorFlow%2FKeras-2563EB?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-2563EB?style=for-the-badge&logo=onnx&logoColor=white)
+
+**⚙️ Embedded Systems & Control**
+
+![nRF52](https://img.shields.io/badge/nRF52-0E7490?style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-0E7490?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0E7490?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![BLE](https://img.shields.io/badge/BLE-0E7490?style=for-the-badge&logo=bluetooth&logoColor=white)
+![I²C](https://img.shields.io/badge/I%C2%B2C-0E7490?style=for-the-badge)
+![Feedback Control](https://img.shields.io/badge/Feedback_Control-0E7490?style=for-the-badge)
+
+**🔧 Development Tools**
+
+![Git](https://img.shields.io/badge/Git-475569?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-475569?style=for-the-badge&logo=github&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-475569?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-475569?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-475569?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 🔭 Currently Exploring
+
+- 🦾 **Embodied AI:** Leading a six-person team preparing for the **Singapore Embodied AI Challenge**.
+- 🧠 **Robot Learning:** Learning about vision-language-action models and how perception connects to robotic decision-making.
+
+---
+
+## 🌍 Professional Interests
+
+I'm drawn to **robotics and intelligent sensing** for **healthcare, assistive technology, and industrial automation**. Long term, I hope to help turn promising prototypes into systems people can actually depend on outside a controlled lab.
+
+<div align="center">
+
+  <a href="https://github.com/weixiang1234?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_My_Public_Repositories-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explore my public repositories" />
+  </a>
+
+</div>
